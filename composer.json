@@ -1,5 +1,5 @@
 {
-    "name": "scandipwa/source",
+    "name": "racpwa/source",
     "type": "magento2-theme",
     "description": "ScandiPWA",
     "keywords": [
@@ -15,7 +15,7 @@
         "magento/magento2-base": "^2.3.3",
         "scandipwa/menu-organizer": "^1.1.1",
         "scandipwa/persisted-query": "^2.0",
-        "scandipwa/slider-graphql": "^1.0",
+        "racpwa/slider-graphql": "^1.0",
         "scandipwa/cms-graphql": "^1.3",
         "scandipwa/catalog-graphql": "^2.6.4",
         "scandipwa/route717": "^1.3",
